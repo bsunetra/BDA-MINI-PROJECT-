@@ -68,4 +68,7 @@ Traffic Data
 
 ## Project Status
 
-0th Review — Proposal, Architecture & System Design
+# Review 0 - Title, Abstract, problem statement and flow of the project(hadoop ecosystems used).
+# Review 1 - 5 papers of literature review(recent 2 years papers must),existing and proposed system
+Review 2 - Architecture Diagram and All modules with explanation
+Review 3 - final demo, results and future enhancements
