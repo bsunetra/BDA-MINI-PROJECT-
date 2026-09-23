@@ -1,0 +1,5 @@
+lane,vehicle_count,avg_speed,avg_waiting,congestion,emergency
+North,42,18,51,0.85,0
+South,17,32,19,0.35,0
+East,31,22,35,0.62,0
+West,12,38,14,0.25,0
