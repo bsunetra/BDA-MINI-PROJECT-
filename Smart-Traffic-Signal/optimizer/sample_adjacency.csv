@@ -1,0 +1,5 @@
+intersection_id,neighbor_intersection_id,direction,distance_m
+J1,J2,E,400.0
+J2,J1,W,400.0
+J2,J3,E,350.0
+J3,J2,W,350.0

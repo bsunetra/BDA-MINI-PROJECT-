@@ -1,0 +1,6 @@
+[
+  {"intersection_id": "J1", "lane": "North", "vehicle_count": 42, "avg_waiting": 51.0, "congestion": 0.85, "emergency_flag": false},
+  {"intersection_id": "J1", "lane": "South", "vehicle_count": 17, "avg_waiting": 19.0, "congestion": 0.35, "emergency_flag": false},
+  {"intersection_id": "J1", "lane": "East", "vehicle_count": 31, "avg_waiting": 35.0, "congestion": 0.62, "emergency_flag": false},
+  {"intersection_id": "J1", "lane": "West", "vehicle_count": 12, "avg_waiting": 14.0, "congestion": 0.25, "emergency_flag": false}
+]

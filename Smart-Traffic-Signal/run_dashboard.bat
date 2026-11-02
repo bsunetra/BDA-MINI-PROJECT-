@@ -1,0 +1,3 @@
+@echo off
+echo Opening Smart Traffic Signal Dashboard...
+start "" "%~dp0dashboard.html"
